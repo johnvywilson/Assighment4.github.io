@@ -35,9 +35,4 @@ button {
   left: 2px;
 }
 
-.thumb-bar img {
-  display: block;
-  width: 20%;
-  float: left;
-  cursor: pointer;
-}
+.thumb
